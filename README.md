@@ -16,6 +16,6 @@ $ npm i
 ``` 
 $ npm start
 ```
-### Node server will be running in port 8000.
+### Node server will be running at port 8000.
 
 Head over to [this repo](https://github.com/anoopmundathan/smarkets-fe.git) for running front end
